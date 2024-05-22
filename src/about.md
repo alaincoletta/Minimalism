@@ -1,24 +1,22 @@
 ---
-title: index
+title: About Genes of Thrones
 layout: page.njk
-keyword: test
+keyword: summary
+tags: pages
 permalink: "{{ title | slugify }}.html"
 eleventyNavigation:
   key: "{{ title | slugify }}"
-  title: Home
-  order: 1
+  title: About
+  order: 2
 ---
 
-# Genes of Thrones
+# About Genes of Thrones
 
-![Genes of Thrones Avatar](img/logo.webp)
-
-Welcome to **Genes of Thrones**, an epic saga where ancient power struggles meet cutting-edge genetics. Dive into the captivating world of Genoria, a kingdom where the fate of noble houses is determined not only by their lineage but by their unique genetic traits.
-
-## Explore the Kingdom of Genoria
+Welcome to the world of **Genes of Thrones**, an epic saga where ancient power struggles meet cutting-edge genetics. Set in the sprawling and ancient kingdom of Genoria, this tale weaves together the intricate tapestry of noble houses, each with unique genetic traits that define their legacies and destinies.
 
 ### The Story
-In the ancient kingdom of Genoria, power is inherited not just through bloodlines but through remarkable genetic traits passed down from generation to generation. The kingdom, once stable under the rule of the Genetic Monarchs, faces unprecedented turmoil after the sudden death of the king. As a fierce battle for the throne ensues, the quest for the legendary Genetic Codex—a manuscript that holds the secrets to enhancing and manipulating genetic traits—becomes paramount.
+
+In Genoria, power is not merely inherited through bloodlines but through the remarkable genetic traits passed down from generation to generation. The kingdom, long ruled by the Genetic Monarchs, faces unprecedented turmoil after the sudden death of the king. As a fierce battle for the throne ensues, the quest for the legendary Genetic Codex—a manuscript that holds the secrets to enhancing and manipulating genetic traits—becomes paramount.
 
 ### The Houses of Genoria
 
@@ -28,19 +26,18 @@ In the ancient kingdom of Genoria, power is inherited not just through bloodline
 - **House Cytos**: Possessing extraordinary regenerative and healing abilities, House Cytos members are the healers and nurturers of the realm.
 
 ### The Conflict
+
 With the monarchy in disarray, the noble houses vie for supremacy. Each house seeks to demonstrate their genetic superiority and secure the Genetic Codex, believing it holds the key to unlocking the ultimate power. Amidst this chaos, a young member of House Helix uncovers a hidden trait that could change the fate of Genoria. This protagonist must navigate a treacherous landscape filled with alliances, betrayals, and deep-seated family secrets.
 
-## Themes and Inspirations
+### Themes and Inspirations
 
 **Genes of Thrones** explores profound themes such as identity, heritage, ethical dilemmas in genetic manipulation, and the corrupting nature of power. Inspired by the complex characters and intricate plots of *Game of Thrones*, combined with contemporary discussions on personal genomics and biotechnology, this story offers a fresh and thought-provoking narrative.
 
-## Personal Genomics
+### Personal Genomics
 
 In this world, personal genomics is at the heart of the story. The characters’ abilities and social standings are intrinsically tied to their genetic makeup, echoing real-world debates about genetic privacy, the potential of CRISPR technology, and the future of human enhancement.
 
-## Join the Saga
-
-Immerse yourself in the world of Genoria, where ancient legacies and futuristic science collide. Follow the epic tale of power, genetics, and destiny in **Genes of Thrones**.
+Join us on this journey through Genoria, where ancient legacies and futuristic science collide, creating a narrative that is as thrilling as it is thought-provoking.
 
 ---
 
@@ -49,6 +46,4 @@ Immerse yourself in the world of Genoria, where ancient legacies and futuristic 
 
 ---
 
-Explore the world, meet the houses, and discover the secrets of the Genetic Codex. Your adventure in Genoria awaits!
-
-[Learn More](#about-genes-of-thrones)
+This "About" page sets the stage for **Genes of Thrones**, inviting readers to immerse themselves in a world where the ancient and the futuristic converge, exploring the profound implications of genetics on power, identity, and destiny.

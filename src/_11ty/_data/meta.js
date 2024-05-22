@@ -4,13 +4,13 @@ module.exports = {
   //  
   language: "it-IT",
   lang: "it",
-  siteName: "Minimalism",
-  shortName: "Minimalism",
-  motto: "Simplicity is the ultimate sophistication.",
-  authorName: "Autore",
+  siteName: "Genes of Thrones",
+  shortName: "Genes of Thrones",
+  motto: "Where Ancestry Meets Destiny",
+  authorName: "Dr. Vesper Mendel",
   siteDescription: "",
   sitekeyword: "",
-  creationDate: "02/02/2022", // change this data
+  creationDate: "02/02/2024", // change this data
   url: process.env.URL || "https://www.marcomicale.eu", // change this url
   robots: "index, follow",
   //
@@ -21,7 +21,7 @@ module.exports = {
   //
   // Contact me
   //
-  mail: "marcomicale@gmail.com",
+  mail: "drvespelmendel@gmail.com",
   telephone: "",
   //
   // Social Network
