@@ -13,7 +13,7 @@
     "social-images": "eleventy-social-images --outputDir public --imageDir /img/social --dataFile ./src/_11ty/_social/pages.json --templatePath ./src/_11ty/_social/template.html --stylesPath ./src/_11ty/_social/social.css --width 1280 --height 720 --deviceScaleFactor 1",
     "dev:css": "npx tailwindcss -i src/_11ty/_tailwindCSS/raw-website.css -o public/css/style.css --watch --minify",
     "dev:11ty": "eleventy --serve --watch",
-    "icon": "npx pwa-asset-generator logo.png ./src/_11ty/_static/favicon -b -m -q 100 -t png -f -w -e "
+    "icon": "npx pwa-asset-generator logo.webp ./src/_11ty/_static/favicon -b -m -q 100 -t png -f -w -e "
   },
   "keywords": [
     "Website",
@@ -26,7 +26,7 @@
   "author": "Marco Micale <marcomicale@gmail.com> (https://www.marcomicale.eu/)",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.0-beta.2",
+    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
     "@11tyrocks/eleventy-plugin-social-images": "^0.4.1",
