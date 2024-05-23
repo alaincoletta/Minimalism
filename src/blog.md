@@ -16,7 +16,7 @@ eleventyNavigation:
 
 Welcome to the **Genes of Thrones** blog, where we delve into the fascinating world of personal genomics and its relevance to our epic saga. Discover how genetic traits shape the characters and the story of Genoria.
 
-### Recent Posts
+### Introductory Posts
 
 #### 1. [The Strength of House Helix: Genetic Traits of Endurance and Power](blog/the-strength-of-house-helix-genetic-traits-of-endurance-and-power)
 *Posted on May 1, 2024*
