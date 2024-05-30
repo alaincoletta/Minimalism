@@ -57,8 +57,8 @@ module.exports = function (eleventyConfig) {
 
   // e alla fine
   return {
-    // pathPrefix: process.env.PATH_PREFIX ?? "",
-    pathPrefix: process.env.PATH_PREFIX,
+    pathPrefix: process.env.PATH_PREFIX ?? "",
+    // pathPrefix: process.env.PATH_PREFIX,
     passthroughFileCopy: true,
     // Directory: in, out, etc...
     dir: {

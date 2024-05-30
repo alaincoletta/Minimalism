@@ -7,10 +7,10 @@
 				   xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 	<channel>
 		<title>Genes of Thrones</title>
-		<link>/index.html</link>
+		<link>/Minimalism/index.html</link>
 		<image>
-    		<url>/img/social/home.png</url>
-			<link>/index.html</link>
+    		<url>/Minimalism/img/social/home.png</url>
+			<link>/Minimalism/index.html</link>
 		</image>
 		<description></description>
 		<copyright>Copyright 2024 Dr. Vesper Mendel</copyright>
@@ -23,8 +23,8 @@
 		<item>
 			<title>Healing Powers. The Regenerative Traits of House Cytos</title>
 			
-			<link>https://www.marcomicale.eu/blog/healing-powers-the-regenerative-traits-of-house-cytos.html</link>
-			<updated>2024-05-30T14:01:48Z</updated>
+			<link>https://www.marcomicale.eu/Minimalism/blog/healing-powers-the-regenerative-traits-of-house-cytos.html</link>
+			<updated>2024-05-30T14:27:25Z</updated>
 			<description>Discover the extraordinary regenerative and healing abilities of House Cytos. This post explores the genetic basis for these traits, such as genes involved in cell regeneration and repair.</description>
 			<content type="html">&lt;p&gt;Welcome back to the &lt;strong&gt;Genes of Thrones&lt;/strong&gt; blog! In this post, we delve into the extraordinary regenerative and healing abilities of House Cytos. Explore the genetic foundations of these traits and their crucial role in maintaining the health and stability of Genoria.&lt;/p&gt;
 &lt;h2&gt;The Healers of Genoria&lt;/h2&gt;
@@ -85,8 +85,8 @@
 		<item>
 			<title>Intellectual Prowess. The Genius of House Genome</title>
 			
-			<link>https://www.marcomicale.eu/blog/intellectual-prowess-the-genius-of-house-genome.html</link>
-			<updated>2024-05-30T14:01:48Z</updated>
+			<link>https://www.marcomicale.eu/Minimalism/blog/intellectual-prowess-the-genius-of-house-genome.html</link>
+			<updated>2024-05-30T14:27:25Z</updated>
 			<description>Uncover the secrets behind House Genome&#39;s intellectual brilliance and strategic minds. We&#39;ll look at how genetic factors contribute to cognitive abilities and decision-making skills.</description>
 			<content type="html">&lt;p&gt;Welcome back to the &lt;strong&gt;Genes of Thrones&lt;/strong&gt; blog! In this post, we explore the intellectual prowess of House Genome, known for their unmatched cognitive abilities and strategic minds. Discover the genetic factors that contribute to their brilliance and how these traits shape their role in Genoria.&lt;/p&gt;
 &lt;h2&gt;The Brains of Genoria&lt;/h2&gt;
@@ -147,8 +147,8 @@
 		<item>
 			<title>Bioengineering Wonders. The Innovations of House Mendel</title>
 			
-			<link>https://www.marcomicale.eu/blog/bioengineering-wonders-the-innovations-of-house-mendel.html</link>
-			<updated>2024-05-30T14:01:48Z</updated>
+			<link>https://www.marcomicale.eu/Minimalism/blog/bioengineering-wonders-the-innovations-of-house-mendel.html</link>
+			<updated>2024-05-30T14:27:25Z</updated>
 			<description>Dive into the world of House Mendel, the masters of bioengineering and genetic manipulation. This post examines the ethical dilemmas and groundbreaking advancements in genetic technology that inspire their role in the story.</description>
 			<content type="html">&lt;p&gt;Welcome back to the &lt;strong&gt;Genes of Thrones&lt;/strong&gt; blog! In this post, we explore the fascinating world of House Mendel, the masters of bioengineering and genetic manipulation. Discover the groundbreaking advancements in genetic technology that inspire their role in Genoria and the ethical dilemmas these innovations entail.&lt;/p&gt;
 &lt;h2&gt;The Pioneers of Genetic Innovation&lt;/h2&gt;
@@ -209,8 +209,8 @@
 		<item>
 			<title>The Strength of House-Helix. Genetic Traits of Endurance and Power</title>
 			
-			<link>https://www.marcomicale.eu/blog/the-strength-of-house-helix-genetic-traits-of-endurance-and-power.html</link>
-			<updated>2024-05-30T14:01:48Z</updated>
+			<link>https://www.marcomicale.eu/Minimalism/blog/the-strength-of-house-helix-genetic-traits-of-endurance-and-power.html</link>
+			<updated>2024-05-30T14:27:25Z</updated>
 			<description></description>
 			<content type="html">&lt;div class=&quot;lead&quot;&gt;
 &lt;p&gt;Welcome to the first post in our &lt;strong&gt;Genes of Thrones&lt;/strong&gt; blog series! Today, we explore the remarkable genetic traits of House Helix, renowned for their unparalleled physical strength and endurance. These traits make them the formidable warriors and protectors of the kingdom of Genoria.&lt;/p&gt;
@@ -257,7 +257,7 @@
 	<channel>
 		<title>About Genes of Thrones</title>
 		
-		<link>https://www.marcomicale.eu/about-genes-of-thrones.html</link>
+		<link>https://www.marcomicale.eu/Minimalism/about-genes-of-thrones.html</link>
 		<description>è una pagina come tante, oppure tante pagine sono come lei?</description>
 		<content type="html">&lt;h1&gt;About Genes of Thrones&lt;/h1&gt;
 &lt;p&gt;Welcome to the world of &lt;strong&gt;Genes of Thrones&lt;/strong&gt;, an epic saga where ancient power struggles meet cutting-edge genetics. Set in the sprawling and ancient kingdom of Genoria, this tale weaves together the intricate tapestry of noble houses, each with unique genetic traits that define their legacies and destinies.&lt;/p&gt;
