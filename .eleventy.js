@@ -5,14 +5,6 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const readingTime = require("eleventy-plugin-reading-time");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
-module.exports = function (eleventyConfig) {
-
-	return {
-	};
-};
-
-
-
 // Helper packages
 const htmlmin = require("html-minifier");
 const { DateTime } = require("luxon");
@@ -65,7 +57,8 @@ module.exports = function (eleventyConfig) {
 
   // e alla fine
   return {
-    pathPrefix: process.env.PATH_PREFIX ?? "",
+    // pathPrefix: process.env.PATH_PREFIX ?? "",
+    pathPrefix: process.env.PATH_PREFIX,
     passthroughFileCopy: true,
     // Directory: in, out, etc...
     dir: {
